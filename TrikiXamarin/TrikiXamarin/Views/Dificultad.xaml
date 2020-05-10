@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TrikiXamarin.Views.Dificultad">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#BF173E">
+            
+            <StackLayout Padding="10,50">
+                
+                <Label HorizontalOptions="Center" TextColor="Black" FontSize="Large" FontAttributes="Bold" Margin="20" >Dificultad</Label>
+                <StackLayout HorizontalOptions="Center" Orientation="Horizontal">
+                    <Button Text="Facil"
+                            BackgroundColor="#400815"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            x:Name="btnFacil"
+                            Clicked="btnFacil_Click"
+                            />
+                    <Image Source="facil.png" HeightRequest="40"></Image>
+                </StackLayout>
+
+                <StackLayout HorizontalOptions="Center" Orientation="Horizontal">
+                    <Button Text="Medio"
+                            BackgroundColor="#400815"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            x:Name="btnMedio"
+                            Clicked="btnMedio_Click"
+                            />
+                    <Image Source="medio.png" HeightRequest="40"></Image>
+                </StackLayout>
+
+                <StackLayout HorizontalOptions="Center" Orientation="Horizontal">
+                    <Button Text="Dificil"
+                            BackgroundColor="#400815"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            x:Name="btnDificil"
+                            Clicked="btnDificil_Click"
+                            />
+                    <Image Source="dificil.png" HeightRequest="40"></Image>
+                </StackLayout>
+
+                <StackLayout HorizontalOptions="Center" Orientation="Horizontal">
+                    <Button Text="Imposible"
+                            BackgroundColor="#400815"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            x:Name="btnImposible"
+                            Clicked="btnImposible_Click"
+                            />
+                    <Image Source="imposible.png" HeightRequest="40"></Image>
+                </StackLayout>
+
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,16 @@
+﻿/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\User\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\obj\x86\Release\ilc\intermediate\MDIL\TrikiXamarin.UWP.mdilexe"
+"/i:D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\obj\x86\Release\ilc\intermediate\Native\TrikiXamarin.UWP.exe"
+"/pdbAltPath:D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc"
+"/res:D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\User\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

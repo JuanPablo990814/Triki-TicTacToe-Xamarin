@@ -1,0 +1,17 @@
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\bin\Release\netstandard2.0\TrikiXamarin.deps.json
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\bin\Release\netstandard2.0\TrikiXamarin.dll
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\bin\Release\netstandard2.0\ref\TrikiXamarin.dll
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\bin\Release\netstandard2.0\TrikiXamarin.pdb
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\TrikiXamarin.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\Views\Dificultad.xaml.g.cs
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\Views\Imposible.xaml.g.cs
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\Views\Jugadores.xaml.g.cs
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\Views\Maquina.xaml.g.cs
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\TrikiXamarin.AssemblyInfoInputs.cache
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\TrikiXamarin.AssemblyInfo.cs
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\XamlC.stamp
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\TrikiXamarin.dll
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\ref\TrikiXamarin.dll
+D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin\obj\Release\netstandard2.0\TrikiXamarin.pdb

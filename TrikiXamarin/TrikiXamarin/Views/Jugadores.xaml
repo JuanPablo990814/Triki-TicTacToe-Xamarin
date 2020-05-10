@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TrikiXamarin.Views.Jugadores">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#800F29">
+            <StackLayout Padding="10,90" BackgroundColor="#BF173E">
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="7">
+                    <Label HorizontalOptions="Center" TextColor="Black" FontSize="Large" FontAttributes="Bold" >Jugador</Label>
+                    <Label HorizontalOptions="Center" TextColor="Black" FontSize="Large" FontAttributes="Bold" x:Name="lblJugador" TextType="Html" VerticalTextAlignment="Center" x:FieldModifier="Public" ></Label>
+                </StackLayout>
+               
+                <StackLayout BackgroundColor="#FF1F53" Padding="3,3" HorizontalOptions="Center">
+                    <StackLayout Orientation="Horizontal">
+
+                        <Button Text=""
+                                BackgroundColor="#400815"
+                                TextColor="White"
+                                FontAttributes="Bold"
+                                x:Name="btn00"
+                                Clicked="btn00_Clicked"
+                                
+                        />
+                        <Button Text=""
+                                BackgroundColor="#400815"
+                                TextColor="White"
+                                FontAttributes="Bold"
+                                x:Name="btn01"
+                                Clicked="btn01_Clicked"
+                        />
+                        <Button Text=""
+                                BackgroundColor="#400815"
+                                TextColor="White"
+                                FontAttributes="Bold"
+                                x:Name="btn02"
+                                Clicked="btn02_Clicked"
+                        />
+                    </StackLayout>
+                    
+                    <StackLayout Orientation="Horizontal">
+
+                        <Button Text=""
+                                BackgroundColor="#400815"
+                                TextColor="White"
+                                FontAttributes="Bold"
+                                x:Name="btn10"
+                                Clicked="btn10_Clicked"
+                        />
+                        <Button Text=""
+                                BackgroundColor="#400815"
+                                TextColor="White"
+                                FontAttributes="Bold"
+                                x:Name="btn11"
+                                Clicked="btn11_Clicked"
+                                
+                        />
+                        <Button Text=""
+                                BackgroundColor="#400815"
+                                TextColor="White"
+                                FontAttributes="Bold"
+                                x:Name="btn12"
+                                Clicked="btn12_Clicked"
+                        />
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal">
+
+                        <Button Text=""
+                                BackgroundColor="#400815"
+                                TextColor="White"
+                                FontAttributes="Bold"
+                                x:Name="btn20"
+                                Clicked="btn20_Clicked"
+                        />
+                        <Button Text=""
+                                BackgroundColor="#400815"
+                                TextColor="White"
+                                FontAttributes="Bold"
+                                x:Name="btn21"
+                                Clicked="btn21_Clicked"
+                        />
+                        <Button Text=""
+                                BackgroundColor="#400815"
+                                TextColor="White"
+                                FontAttributes="Bold"
+                                x:Name="btn22"
+                                Clicked="btn22_Clicked"
+                        />
+                    </StackLayout>
+                    
+                    
+                </StackLayout>
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

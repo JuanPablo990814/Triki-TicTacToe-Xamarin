@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>H4PP3NS</Machine>
+    <WindowsUser>User</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
+    <PackageIdentityPublisher>CN=87ed6ad1-89d7-4a12-bac1-a72686af9373</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>3B8CCB187AA5013C079A97E9B5D40DF8A3EB80E1C2FC1A313EF78E2A454B0CDA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>88fd22fd-01d1-464e-88c2-e1d083c27daf_1.0.0.0_x86__bb9tdfsy5gay6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>88fd22fd-01d1-464e-88c2-e1d083c27daf_bb9tdfsy5gay6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>88fd22fd-01d1-464e-88c2-e1d083c27daf</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=87ed6ad1-89d7-4a12-bac1-a72686af9373</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-10T02:17:20.267</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\dificil.png">
+      <PackagePath>Assets\dificil.png</PackagePath>
+      <Modified>2020-04-05T23:00:48.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\facil.png">
+      <PackagePath>Assets\facil.png</PackagePath>
+      <Modified>2020-04-05T23:00:49.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\imposible.png">
+      <PackagePath>Assets\imposible.png</PackagePath>
+      <Modified>2020-04-05T23:00:49.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\medio.png">
+      <PackagePath>Assets\medio.png</PackagePath>
+      <Modified>2020-04-05T23:00:49.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.353</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\triki.png">
+      <PackagePath>Assets\triki.png</PackagePath>
+      <Modified>2020-04-05T22:02:24.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-04-05T22:00:48.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2018-10-04T18:37:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+      <Modified>2016-11-30T07:58:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\Microsoft.Graphics.Canvas.winmd">
+      <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
+      <Modified>2016-11-30T07:58:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-04-10T02:15:28.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\TrikiXamarin.UWP.dll">
+      <PackagePath>TrikiXamarin.UWP.dll</PackagePath>
+      <Modified>2020-04-10T02:17:18.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\TrikiXamarin.UWP.exe">
+      <PackagePath>TrikiXamarin.UWP.exe</PackagePath>
+      <Modified>2020-04-10T02:17:20.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documentos\Visual Studio\TrikiXamarin\TrikiXamarin\TrikiXamarin.UWP\bin\x86\Release\ilc\TrikiXamarin.UWP.pdb">
+      <PackagePath>TrikiXamarin.UWP.pdb</PackagePath>
+      <Modified>2020-04-10T02:17:20.208</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\User\.nuget\packages\microsoft.ui.xaml\2.1.190606001\build\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.1.appx">
+      <Name>Microsoft.UI.Xaml.2.1</Name>
+      <Version>2.11906.6001.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.1, MinVersion = 2.11906.6001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\User\.nuget\packages\microsoft.ui.xaml\2.1.190606001\build\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\User\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\User\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\User\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\User\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\User\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\User\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\User\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\User\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\User\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\User\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\User\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\User\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

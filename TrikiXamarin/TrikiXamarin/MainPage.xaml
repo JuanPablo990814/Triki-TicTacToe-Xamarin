@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TrikiXamarin.MainPage">
+
+    <StackLayout Padding="90,150" BackgroundColor="#BF173E" HorizontalOptions="Center">
+        <!-- Place new controls here -->
+        <Label HorizontalOptions="Center" TextColor="Black" FontSize="Large" FontAttributes="Bold"  >TRIKI TICTACTOE</Label>
+        <Image Source="triki.png" HeightRequest="90"></Image>
+
+        <!--<StackLayout Orientation="Horizontal" HorizontalOptions="Center"></StackLayout>-->
+        <Button Text="Jugador Vs. Maquina"
+                BackgroundColor="#400815"
+                TextColor="White"
+                FontAttributes="Bold"
+                x:Name="btnMaquina"
+                Clicked="btnMaquina_Click" 
+        />
+
+        <Button Text="Jugador vs Jugador"
+                BackgroundColor="#400815"
+                TextColor="White"
+                FontAttributes="Bold"
+                x:Name="btnJugadores"
+                Clicked="btnJugadores_Click"
+        />
+
+        <!-- Clicked="btnMaquina" Clicked="btnJugadores" -->
+        <Label FontAttributes="Bold">By: JPPB</Label>
+    </StackLayout>
+
+</ContentPage>
